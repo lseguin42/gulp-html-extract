@@ -27,9 +27,11 @@
     "url": "https://github.com/FormidableLabs/gulp-html-extract/issues"
   },
   "dependencies": {
+    "bufferstreams": "^1.1.1",
     "cheerio": "^0.19.0",
-    "gulp-util": "2.2.14",
-    "through2": "0.4.1"
+    "gulp-util": "^2.2.14",
+    "through2": "^0.4.1",
+    "vinyl": "^1.2.0"
   },
   "devDependencies": {
     "chai": "1.9.1",
